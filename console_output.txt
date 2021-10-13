@@ -1,0 +1,101 @@
+Show all element on LinkedList
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|   P04|             Book|         9|            5.2|
+|     4|              wer|         4|            2.0|
+- Search by id = 4
+P04 Book 9 5.2 
+- Search by id = 1
+|   P01|          Miliket|        10|            5.2|
+Successfully delete product with ID: 4Show all element on LinkedList
+|     4|              wer|         4|            2.0|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P03|            Sugar|        12|           25.1|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+- Covert to binary:
+- Quality: 4 => 100Save to Stack
+|     4|              wer|         4|            2.0|
+|   P04|             Book|         9|            5.2|
+|   P07|             Beer|        11|           12.2|
+|   P05|             Rose|         7|           15.4|
+|   P02|            Apple|         5|            4.3|
+|   P01|          Miliket|        10|            5.2|
+|   P03|            Sugar|        12|           25.1|
+Save to Queue
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|   P04|             Book|         9|            5.2|
+|     4|              wer|         4|            2.0|
+Show all element on LinkedList
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|   P04|             Book|         9|            5.2|
+|     4|              wer|         4|            2.0|
+- Successfully delete product with ID: 4
+Show all element on LinkedList
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|     4|              wer|         4|            2.0|
+Show all element on LinkedList
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|   P04|             Book|         9|            5.2|
+Show all element on LinkedList
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P03|            Sugar|        12|           25.1|
+|   P04|             Book|         9|            5.2|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+Input element:
+|   P06|             rwer|         4|            3.0|
+Show all element on LinkedList
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|   P04|             Book|         9|            5.2|
+|   P06|             rwer|         4|            3.0|
+Show all element on LinkedList
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P03|            Sugar|        12|           25.1|
+|   P04|             Book|         9|            5.2|
+|   P05|             Rose|         7|           15.4|
+|   P06|             rwer|         4|            3.0|
+|   P07|             Beer|        11|           12.2|
+- Input element:
+|   P08|              wer|         2|            2.0|
+Show all element in LinkedList
+|   P08|              wer|         2|            2.0|
+Show all element in LinkedList
+|   P03|            Sugar|        12|           25.1|
+|   P01|          Miliket|        10|            5.2|
+|   P02|            Apple|         5|            4.3|
+|   P05|             Rose|         7|           15.4|
+|   P07|             Beer|        11|           12.2|
+|   P04|             Book|         9|            5.2|
+- Input element:
+|   P08|              sdf|         3|            4.0|
+Show all element in LinkedList
+|   P08|              sdf|         3|            4.0|
+- Successfully delete product with ID: 8
+|   P08|              sdf|         3|            4.0|
